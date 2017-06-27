@@ -1,0 +1,4 @@
+package: github.com/sssinsi/goa-sample
+import:
+- package: github.com/goadesign/goa
+  version: v1.2.0

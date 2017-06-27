@@ -1,0 +1,1 @@
+./vendor/github.com/goadesign/goa/goagen/goagen bootstrap -d github.com/sssinsi/goa-sample/cellar/design
